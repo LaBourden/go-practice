@@ -1,4 +1,4 @@
-module go-practice/gee/base3
+module go-practice/gee
 
 go 1.19
 
